@@ -1,0 +1,3 @@
+Reporte de inventario
+Productos registrados: 15
+Estado: actualizado

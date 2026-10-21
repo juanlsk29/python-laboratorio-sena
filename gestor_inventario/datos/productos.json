@@ -1,0 +1,58 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Teclado",
+        "categoria": "Periféricos",
+        "precio": 85000.0,
+        "cantidad": 4
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Mouse",
+        "categoria": "Periféricos",
+        "precio": 45000.0,
+        "cantidad": 5
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Monitor",
+        "categoria": "Componentes",
+        "precio": 700000.0,
+        "cantidad": 2
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Agua",
+        "categoria": "Componentes",
+        "precio": 10000.0,
+        "cantidad": 5
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Espada",
+        "categoria": "Accesorios",
+        "precio": 5000.0,
+        "cantidad": 1
+    },
+    {
+        "codigo": "P007",
+        "nombre": "Ram8",
+        "categoria": "Componentes",
+        "precio": 90000.0,
+        "cantidad": 0
+    },
+    {
+        "codigo": "P008",
+        "nombre": "Leche",
+        "categoria": "Accesorios",
+        "precio": 20000.0,
+        "cantidad": 2
+    },
+    {
+        "codigo": "P009",
+        "nombre": "ñoño",
+        "categoria": "Accesorios",
+        "precio": 50000.0,
+        "cantidad": 5
+    }
+]

@@ -1,0 +1,2 @@
+Prueba: Prueba Python | Resultado: aprobada | Observación: Mi primera bitacora 
+Prueba: Prueba dos de Python  | Resultado: fallida | Observación: Prueba para recorrer_lineas

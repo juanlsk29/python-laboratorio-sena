@@ -1,0 +1,9 @@
+codigo,nombre,categoria,precio,cantidad,valor_inventario
+P001,Teclado,Periféricos,85000.0,4,340000.0
+P002,Mouse,Periféricos,45000.0,5,225000.0
+P003,Monitor,Componentes,700000.0,2,1400000.0
+P005,Agua,Componentes,10000.0,5,50000.0
+P006,Espada,Accesorios,5000.0,1,5000.0
+P007,Ram8,Componentes,90000.0,0,0.0
+P008,Leche,Accesorios,20000.0,2,40000.0
+P009,ñoño,Accesorios,50000.0,5,250000.0

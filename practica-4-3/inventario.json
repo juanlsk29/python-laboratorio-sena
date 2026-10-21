@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "C001",
+        "nombre": "Computador",
+        "precio": 10000.0,
+        "cantidad": 10
+    },
+    {
+        "codigo": "C002",
+        "nombre": "Mouse",
+        "precio": 5000.0,
+        "cantidad": 2
+    },
+    {
+        "codigo": "C003",
+        "nombre": "Agua",
+        "precio": 60000.0,
+        "cantidad": 20
+    }
+]
